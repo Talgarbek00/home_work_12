@@ -1,0 +1,12 @@
+person.name  = asan
+person.age  = 12
+person1.name = yson
+person1.age = 21
+
+Dog.name = snoopDog
+Dog.age  = 32
+Dog.gender = female 
+
+Cat.name = more
+Cat.age = 2
+Cat.gender = male
